@@ -1,5 +1,5 @@
-## Artificial Intelligence and Games##
-## Game AI Jam hub ##
+# Artificial Intelligence and Games
+## Game AI Jam hub
 
 The [International Summer School on Artificial Intelligence and Games](https://school.gameaibook.org/) is the leading global event dedicated to the intersection of AI and games. This summer school provides an intensive learning experience covering cutting-edge AI techniques in game playing, content generation, and player modeling delivered by leading experts from the games industry. This summer school offers an unparalleled deep dive into AI and Machine Learning for games. 
 
