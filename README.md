@@ -14,4 +14,4 @@ We record the Jams since 2018 below, along with the winner of every year:
 | 2022| Chania, Greece      | [Emo-tris](https://github.com/GameAISchool2022members/GIST)| [Repository](https://github.com/GameAISchool2022members)|
 | 2023| Cambridge, UK       | [Face2Face](https://github.com/GameAISchool2023members/The-Warrens)| [Repository](https://github.com/GameAISchool2023members)|
 | 2024| Valletta, Malta     | [ShoutAndSoar](https://github.com/GameAISchool2024members/ShoutAndSoar)|  [Repository](https://github.com/GameAISchool2024members)|
-| 2025| Malmö, Sweden       | TBD! |  [Repository](https://github.com/GameAISchool2025members)|
+| 2025| Malmö, Sweden       | [Baloonce](https://github.com/GameAISchool2025members/Baloonce) |  [Repository](https://github.com/GameAISchool2025members)|
